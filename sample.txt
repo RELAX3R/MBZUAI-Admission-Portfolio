@@ -1,0 +1,7 @@
+10(bin)e(hex)(hex)
+10(bin)
+e(hex)
+2e(hex)
+214(hex)
+46(hex)
+(hex)
